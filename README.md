@@ -5,13 +5,12 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-f97316?style=flat)
 
 ---
 
 ## 🔗 Live Site
 
-**[muhammadmuneebmubashar.github.io](https://muhammadmuneebmubashar.github.io)** <!-- update if different -->
+**[muhammadmuneebmubashar.github.io]([https://muhammadmuneebmubashar.github.io](https://muhammadmuneebmubashar.github.io/dev-portfolio/))** <!-- update if different -->
 
 ---
 
@@ -40,7 +39,6 @@ A dark-themed, single-page developer portfolio with a sharp orange accent system
 - **Icons** — devicons via jsDelivr CDN
 - **Animations** — IntersectionObserver scroll reveal, CSS keyframes
 - **Hosting** — GitHub Pages
-- **Built with** — [Claude Code](https://claude.ai/code)
 
 ---
 
