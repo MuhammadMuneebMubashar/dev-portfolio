@@ -1,0 +1,8 @@
+# CODEOWNERS — every pull request must be reviewed and approved
+# by the repository owner before it can be merged.
+#
+# This file works together with the branch protection rule
+# "Require pull request reviews before merging" that is configured
+# in Settings → Branches → Branch protection rules.
+
+* @MuhammadMuneebMubashar
